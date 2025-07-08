@@ -1,0 +1,44 @@
+body {
+    background-color: #f0f8ff; 
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #9f1e65; 
+    text-align: center; 
+}
+p {
+    font-size: 18px; 
+    text-align: justify; 
+}
+ul {
+    margin: 20px 0; /* Espaçamento maior entre os itens da lista */
+}
+.hobby-image {
+    border-radius: 15px; 
+    width: 300px; /* Tam adequado */
+}
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: 20px 0; 
+}
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px; /* espaçamento interno */
+    text-align: center; 
+}
+th {
+    background-color: #9f1e65; 
+    color: white; 
+}
+.country-image {
+    width: 100px; /* Tam da imag do país */
+    border-radius: 10px; 
+}
+a {
+    color: #9f1e65;
+    text-decoration: none; /* Remove o sublinhado */
+}
+a:hover {
+    color: #3080dd; /* Muda a cor do link ao passar o mouse */
+}
